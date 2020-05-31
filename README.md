@@ -1,2 +1,2 @@
 # movie-seat-booking
-Movie and seats selection form UI // DOM and local storage
+Vanilla JS practice: movie and seats selection form UI // DOM and local storage
